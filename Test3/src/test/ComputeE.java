@@ -17,6 +17,6 @@ public class ComputeE {
             e = e + y;
         }
 
-        System.out.println("µ± = " + i + "Ê±£¬e = " + e);
+        System.out.println("i= " + i + "e = " + e);
     }
 }
