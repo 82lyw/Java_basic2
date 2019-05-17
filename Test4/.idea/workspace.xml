@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="468a3472-9d83-4828-a54c-40fc62e1dc0a" name="Default" comment="" />
+    <list default="true" id="96921288-b501-4371-a799-06abeb4ab7d4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,38 +12,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="PrintCalendar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/PrintCalendar.java">
+      <file leaf-file-name="EightQueens.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/EightQueens.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2552">
-              <caret line="88" column="4" lean-forward="false" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
-              <folding>
-                <element signature="e#2909#2910#0" expanded="true" />
-                <element signature="e#2985#2986#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ComputeE.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/ComputeE.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="493">
+              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Year.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/Year.java">
+      <file leaf-file-name="TestFour.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/TestFour.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#4336#4337#0" expanded="true" />
-                <element signature="e#4412#4413#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="29">
+              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EstimatedPi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/EstimatedPi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromeInteger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/PalindromeInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,14 +69,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/PrintPyramidNumbers.java" />
-        <option value="$PROJECT_DIR$/src/test/PrintCalendar.java" />
-        <option value="$PROJECT_DIR$/src/test/CalculateStandardDeviationAndVariance.java" />
-        <option value="$PROJECT_DIR$/src/test/CalculateMeanAndStandardDeviation.java" />
-        <option value="$PROJECT_DIR$/src/test/GreatestCommonDivisor.java" />
-        <option value="$PROJECT_DIR$/src/test/RockPaperScissorsGame.java" />
-        <option value="$PROJECT_DIR$/src/test/ComputeE.java" />
-        <option value="$PROJECT_DIR$/src/test/Year.java" />
+        <option value="$PROJECT_DIR$/src/test/Sqrt.java" />
+        <option value="$PROJECT_DIR$/src/test/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/test/IsSorted.java" />
+        <option value="$PROJECT_DIR$/src/test/LockerPuzzle.java" />
+        <option value="$PROJECT_DIR$/src/test/FourGame.java" />
+        <option value="$PROJECT_DIR$/src/test/JavaGame.java" />
+        <option value="$PROJECT_DIR$/src/test/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/test/EightQueensProblem.java" />
+        <option value="$PROJECT_DIR$/src/test/ConsecutiveFour.java" />
+        <option value="$PROJECT_DIR$/src/test/EightQueens.java" />
+        <option value="$PROJECT_DIR$/src/test/Four.java" />
+        <option value="$PROJECT_DIR$/src/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/EstimatedPi.java" />
+        <option value="$PROJECT_DIR$/src/test/PalindromeInteger.java" />
+        <option value="$PROJECT_DIR$/src/test/TestFour.java" />
       </list>
     </option>
   </component>
@@ -83,8 +94,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="6" />
-    <option name="y" value="21" />
+    <option name="x" value="900" />
+    <option name="y" value="40" />
     <option name="width" value="1070" />
     <option name="height" value="1030" />
   </component>
@@ -103,42 +114,45 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Test3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test3" type="462c0819:PsiDirectoryNode" />
+              <item name="Test4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Test3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test3" type="462c0819:PsiDirectoryNode" />
+              <item name="Test4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Test3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test3" type="462c0819:PsiDirectoryNode" />
+              <item name="Test4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="TestFour.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Year">
+  <component name="RunManager" selected="Application.TestFour">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -160,14 +174,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="CalculateMeanAndStandardDeviation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ConsecutiveFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="test.CalculateMeanAndStandardDeviation" />
+      <option name="MAIN_CLASS_NAME" value="test.ConsecutiveFour" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -176,17 +190,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Test3" />
+      <module name="Test4" />
       <envs />
     </configuration>
-    <configuration name="GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="EightQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="test.GreatestCommonDivisor" />
+      <option name="MAIN_CLASS_NAME" value="test.EightQueens" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -195,17 +209,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Test3" />
+      <module name="Test4" />
       <envs />
     </configuration>
-    <configuration name="PrintCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="EightQueensProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="test.PrintCalendar" />
+      <option name="MAIN_CLASS_NAME" value="test.EightQueensProblem" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -214,17 +228,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Test3" />
+      <module name="Test4" />
       <envs />
     </configuration>
-    <configuration name="RockPaperScissorsGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="test.RockPaperScissorsGame" />
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -233,17 +247,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Test3" />
+      <module name="Test4" />
       <envs />
     </configuration>
-    <configuration name="Year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="test.Year" />
+      <option name="MAIN_CLASS_NAME" value="test.TestFour" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -252,7 +266,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Test3" />
+      <module name="Test4" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -330,19 +344,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PrintCalendar" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RockPaperScissorsGame" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CalculateMeanAndStandardDeviation" />
-      <item index="3" class="java.lang.String" itemvalue="Application.GreatestCommonDivisor" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Year" />
+      <item index="0" class="java.lang.String" itemvalue="Application.EightQueensProblem" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ConsecutiveFour" />
+      <item index="2" class="java.lang.String" itemvalue="Application.EightQueens" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestFour" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Year" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PrintCalendar" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RockPaperScissorsGame" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GreatestCommonDivisor" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CalculateMeanAndStandardDeviation" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestFour" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.EightQueens" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ConsecutiveFour" />
+        <item index="4" class="java.lang.String" itemvalue="Application.EightQueensProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -354,26 +368,33 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="468a3472-9d83-4828-a54c-40fc62e1dc0a" name="Default" comment="" />
-      <created>1555377034851</created>
+      <changelist id="96921288-b501-4371-a799-06abeb4ab7d4" name="Default" comment="" />
+      <created>1556585599335</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1555377034851</updated>
-      <workItem from="1555377038399" duration="138000" />
-      <workItem from="1555379164473" duration="8020000" />
-      <workItem from="1555583373013" duration="11689000" />
-      <workItem from="1555936342514" duration="713000" />
-      <workItem from="1556283243668" duration="7096000" />
-      <workItem from="1556585540469" duration="60000" />
+      <updated>1556585599335</updated>
+      <workItem from="1556585604121" duration="9199000" />
+      <workItem from="1557119958099" duration="355000" />
+      <workItem from="1557127271320" duration="8377000" />
+      <workItem from="1557148657724" duration="4108000" />
+      <workItem from="1557193743656" duration="7169000" />
+      <workItem from="1557373723431" duration="929000" />
+      <workItem from="1557501026741" duration="616000" />
+      <workItem from="1557559736176" duration="605000" />
+      <workItem from="1557585685881" duration="4942000" />
+      <workItem from="1557622392369" duration="2382000" />
+      <workItem from="1557663264874" duration="2406000" />
+      <workItem from="1557708755436" duration="1585000" />
+      <workItem from="1557734174489" duration="1819000" />
+      <workItem from="1557799048190" duration="139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27716000" />
+    <option name="totallyTimeSpent" value="44631000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -383,23 +404,23 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09327037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44510037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26349893" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34935206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905548" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -411,273 +432,242 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/PrintCalendar.java">
+    <entry file="file://$PROJECT_DIR$/src/test/LockerPuzzle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2552">
-          <caret line="88" column="4" lean-forward="false" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
-          <folding>
-            <element signature="e#2909#2910#0" expanded="true" />
-            <element signature="e#2985#2986#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="348">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ComputeE.java">
+    <entry file="file://$PROJECT_DIR$/src/test/EightQueensProblem.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/HelloWorld.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/ConsecutiveFour.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/JavaGame.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/EightQueens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="957">
+          <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Year.java">
+    <entry file="file://$PROJECT_DIR$/src/test/LockerPuzzle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#4336#4337#0" expanded="true" />
-            <element signature="e#4412#4413#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="348">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/PrintCalendar.java">
+    <entry file="file://$PROJECT_DIR$/src/test/EightQueensProblem.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/HelloWorld.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/EightQueens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
-          <folding>
-            <element signature="e#2909#2910#0" expanded="true" />
-            <element signature="e#2985#2986#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="957">
+          <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/RockPaperScissorsGame.java">
+    <entry file="file://$PROJECT_DIR$/src/test/JavaGame.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/ConsecutiveFour.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/LockerPuzzle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/EightQueensProblem.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/ConsecutiveFour.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/EstimatedPi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/IsSorted.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/CalculateMeanAndStandardDeviation.java">
+    <entry file="file://$PROJECT_DIR$/src/test/JavaGame.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/LockerPuzzle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
-          <folding />
+        <state relative-caret-position="348">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/GreatestCommonDivisor.java">
+    <entry file="file://$PROJECT_DIR$/src/test/EightQueensProblem.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/IsSorted.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="174">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ComputeE.java">
+    <entry file="file://$PROJECT_DIR$/src/test/ConsecutiveFour.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/PalindromeInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" column="52" lean-forward="true" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-          <folding />
+        <state relative-caret-position="203">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/PrintCalendar.java">
+    <entry file="file://$PROJECT_DIR$/src/test/EstimatedPi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
-          <folding>
-            <element signature="e#2909#2910#0" expanded="true" />
-            <element signature="e#2985#2986#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="87">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/RockPaperScissorsGame.java">
+    <entry file="file://$PROJECT_DIR$/src/test/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="28" />
-          <folding />
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/CalculateMeanAndStandardDeviation.java">
+    <entry file="file://$PROJECT_DIR$/src/test/Sqrt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
-          <folding />
+        <state relative-caret-position="174">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/GreatestCommonDivisor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/PrintCalendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#2909#2910#0" expanded="true" />
-            <element signature="e#2985#2986#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/PrintPyramidNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1160">
-          <caret line="40" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/CalculateStandardDeviationAndVariance.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/CalculateMeanAndStandardDeviation.java">
+    <entry file="file://$PROJECT_DIR$/src/test/IsSorted.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/GreatestCommonDivisor.java">
+    <entry file="file://$PROJECT_DIR$/src/test/LockerPuzzle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="580">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/RockPaperScissorsGame.java">
+    <entry file="file://$PROJECT_DIR$/src/test/EightQueensProblem.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/PalindromeInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/EstimatedPi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Sqrt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/IsSorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/LockerPuzzle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/EightQueensProblem.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/Sqrt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="19" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/IsSorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/FourGame.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/JavaGame.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/HelloWorld.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/LockerPuzzle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/EightQueensProblem.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/Four.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/ConsecutiveFour.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/EightQueens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Year.java">
+    <entry file="file://$PROJECT_DIR$/src/test/EstimatedPi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6491">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/PrintCalendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2552">
-          <caret line="88" column="4" lean-forward="false" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
-          <folding>
-            <element signature="e#2909#2910#0" expanded="true" />
-            <element signature="e#2985#2986#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ComputeE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="406">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Year.java">
+    <entry file="file://$PROJECT_DIR$/src/test/PalindromeInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#4336#4337#0" expanded="true" />
-            <element signature="e#4412#4413#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="609">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>9.0</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Test3</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/src/test/TestFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
