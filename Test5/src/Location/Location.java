@@ -19,7 +19,6 @@ public class Location {
                 array[i][j] = input.nextDouble();
             }
         }
-
         Location Max = locateLargest(array);
         System.out.print("The location of the largest element is "
                 + Max.maxValue + " at (" + Max.row + "," + Max.column + ")");
@@ -45,6 +44,4 @@ public class Location {
         }
         return L;
     }
-
-
 }

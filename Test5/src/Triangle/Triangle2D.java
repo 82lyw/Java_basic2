@@ -1,7 +1,5 @@
 package Triangle;
-
 public class Triangle2D {
-
     public static void main(String[] args) {
         Triangle2D t1 = new Triangle2D(new MyPoint(2.5,2),new MyPoint(4.2,3),new MyPoint(5,3.5));
         System.out.println("new Triangle2D(new MyPoint(2.5,2),new MyPoint(4.2,3),new MyPoint(5,3.5))");
@@ -13,7 +11,6 @@ public class Triangle2D {
         System.out.println("t1.overlaps(new Triangle2D(new MyPoint(2,5.5),new MyPoint(4,-3),new MyPoint(2,6.5))) is "
                 + t1.overlaps(new Triangle2D(new MyPoint(2,5.5),new MyPoint(4,-3),new MyPoint(2,6.5))));
     }
-
 
     private MyPoint p1,p2,p3;
 
@@ -66,9 +63,6 @@ public class Triangle2D {
     }
 
     public boolean contains(MyPoint p) {
-
-//        return true;
-
         double areaS=this.getArea();
         double pA=(p.distance(p1)+p.distance(p2)+p1.distance(p2))/2;
         double pB=(p.distance(p1)+p.distance(p3)+p1.distance(p3))/2;
@@ -100,7 +94,4 @@ public class Triangle2D {
         else
             return false;
     }
-
-
-
 }
